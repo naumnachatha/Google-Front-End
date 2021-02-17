@@ -1,0 +1,61 @@
+div#navbarResponsive {
+    justify-content: flex-end;
+}
+i.fa.fa-th.social-icon {
+    margin: 9px 10px 0px 3px;
+    font-size: 20px;
+}
+a.nav-link {
+    color: black!important;
+    font-weight: 300;
+    font-size: 13px;
+}
+button.btn.btn-primary.display {
+    font-size: 12px;
+    border-radius: 0px;
+}
+img.imag {
+    height: 150px;
+    margin: 100px 0px 0px 95px;
+}
+input.search {
+	padding: 15px;
+    width: 37%;
+    margin-left: 32%;
+    margin-top: 26px;
+    height: 42px;
+    border-radius: 50px 0px 0px 50px;
+    border-width: 1px 0px 1px 1px;
+    outline: none;
+    border-color: #e6e6e6 #e6e6e6  #999999 #e6e6e6;
+}
+button.btn.mic {
+    height: 42px;
+    margin: 0px 0px 5px -4px;
+    border-radius: 0px 50px 50px 0px;
+    border-width: 1px 1px 1px 0px;
+    border-color: #999999;
+    outline: none;
+}
+button.btn.mic {
+    font-size: 21px;
+}
+.row.btns {
+    justify-content: center;
+    margin: 0px 0px 0px 55px;
+}
+button.btn.btn-transparent.btnss {
+    font-size: 13px;
+}
+.para {
+    margin-left: 45%;
+    font-size: 13px;
+    margin-top: 13px;
+}
+i.fa.fa-microphone.mcp {
+    color: #007bff;
+}
+i.fa.fa-microphone.mcp {
+    color: #007bff;
+    font-size: 22px;
+}
